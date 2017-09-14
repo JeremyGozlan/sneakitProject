@@ -6,3 +6,7 @@ I first scrapped google images using product ids for multiple colorways of a sam
 The modelling has been achieved using the VGG-16 architecture using Keras. Transfer learning has also been used using the ImageNet weights.
 To train my models I used multiple AWS multiple instances.
 I converted my python models using the mlcoretools to convert them into a .mlmodel format Xcode 9 could use.
+
+A complete description and presentation of this project is available on the attached pdf 
+
+
